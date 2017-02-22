@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "746355652965",
+    "project_id": "tatvic-ga-demo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746355652965:android:7fbdaffe14f5077d",
+        "android_client_info": {
+          "package_name": "com.tatvic.demo.gademo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJqRYmxWxJWBhtzpcLOfcZNMrppsb9mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-72170679-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
